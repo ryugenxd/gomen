@@ -12,6 +12,7 @@ pkg install git;
 git clone https://github.com/ryugenxd/gomen;
 cd gomen;
 pkg install python;
-pip install requests,rich;
+pip install requests;
+pip install rich;
 python ハック.py;
 ```
