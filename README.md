@@ -2,7 +2,7 @@
 Dump server public In world :)
 
 # screenshoot
-![](./screenshot/preview.jpg)
+!['preview'](https://github.com/ryugenxd/gomen/raw/main/screenshoot/preview.jpg)
 
 # instalasi
 ```bash
